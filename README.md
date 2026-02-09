@@ -53,7 +53,7 @@ The tool categorizes reviews into six critical logistics domains using a priorit
 | Komentar | Label | Aspect Priority | Positive Words | Negative Words |
 | --- | --- | --- | --- | --- |
 | "Barang sudah 4 hari ngak diantar, ngak becus" | Negatif | Waktu Pengiriman | - | tidak diantar, tidak becus |
-| "Paket dari senin tidak dikirim... langganan" | Positif | Waktu Pengiriman | langganan | - |
+| "Paket dari senin tidak dikirim... langganan" | Negatif | Waktu Pengiriman | langganan | tidak dikirim, menunggu lama |
 
 ---
 
